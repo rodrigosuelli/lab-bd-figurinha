@@ -1,0 +1,1 @@
+exports.JWT_KEY = "Fatec Arthur de Azevedo - Mogi Mirim";
